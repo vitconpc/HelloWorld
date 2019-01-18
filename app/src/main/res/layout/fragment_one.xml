@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:id="@+id/frame_content"
+    android:layout_height="match_parent"
+    android:background="@android:color/holo_red_light"
+    tools:context=".OneFragment">
+
+    <!-- TODO: Update blank fragment layout -->
+    <Button
+        android:text="goto2"
+        android:id="@+id/btngoto2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+
+</FrameLayout>
